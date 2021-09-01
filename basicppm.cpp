@@ -1,5 +1,6 @@
 #include <iostream>
 
+// http://in1weekend.blogspot.com/2016/01/ray-tracing-in-one-weekend.html
 int main() {
 
   int nx = 200;
